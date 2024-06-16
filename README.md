@@ -1,3 +1,4 @@
+<img src="Foto Aguiar Univa.PNG>
 - 👋 Hola, soy el Dr. Alfredo Aguiar
 - 👀 Estoy interesado en las nuevas tecnologías, así como en app medicas.
 - 🌱 Actualmente estudiando sobre IA
